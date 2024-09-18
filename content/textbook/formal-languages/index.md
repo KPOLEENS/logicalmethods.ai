@@ -292,7 +292,7 @@ concepts.
     ordinary keyboards), such as $||$ for disjunction, $\\&\\&$ for conjunction
     in [C](https://en.wikipedia.org/wiki/C_(programming_language)), or simply
     $\mathsf{and}$, $\mathsf{or}$, $\mathsf{not}$ in
-    [Pyton](https://en.wikipedia.org/wiki/Python_(programming_language)). 
+    [Python](https://en.wikipedia.org/wiki/Python_(programming_language)). 
 
 6) **Quantifiers**.
 
